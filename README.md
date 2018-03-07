@@ -1,5 +1,3 @@
-# lab3.3
-
 public class ArrayMethods3 {
 	public static String[] mergeSort(String[] list) {
 	    String[] left = new String[(int)(list.length / 2)];
